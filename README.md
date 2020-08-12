@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love :penguin:'s
+I am Sr. Front End Developer and I love :penguin:'s
 
 <!--
 **isramv/isramv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
