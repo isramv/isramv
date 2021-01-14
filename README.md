@@ -14,3 +14,5 @@ Interested on JAMStack and React, Vue.js.
 
 you can reach me via DM: https://twitter.com/isramv
 
+Telegram: @isramv_73
+
