@@ -2,12 +2,12 @@
 
 ### Hi there 👋
 
-I am Sr. Front End Developer and I love :penguin:'s
+I am an independent consultant.
 
-My resume: https://israelmorales.dev 
+Here is my resume: https://israelmorales.dev 
 
 I am currently working on: https://arquitect.io
 
-Interested on JAMStack and React, Vue.js.
+Interested on Drupal, Laravel and JavaScript.
 
 you can reach me via Telegram: @isramv_73
